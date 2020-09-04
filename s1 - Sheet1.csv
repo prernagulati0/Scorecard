@@ -1,0 +1,6 @@
+Question No.,Time Spent on question (sec),Score if correct,Score if incorrect,Attempt status,What you marked,Correct Answer,Outcome (Correct/Incorrect/Not Attempted),Your score,
+Q1,60,2,-1,Attempted,A,A,Correct,2,
+Q2,52,2,-1,Unattempted,,B,Unattempted,0,
+Q3,89,2,-1,Attempted,C,C,Incorrect,-1,
+Q4,41,2,-1,Unattempted,,D,Unattempted,0,
+Q5,56,2,-1,Attempted,E,E,Correct,2,
